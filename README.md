@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matriona94
 - 👀 I’m interested in automation testing and frontend development
-- 🌱 I’m currently learning Cypress and HTML and CSS
+- 🌱 I’m currently learning Cypress, Selenium and HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mcmatrisa@gmail.com
 
